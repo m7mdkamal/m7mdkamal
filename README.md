@@ -1,5 +1,5 @@
 ### Hi 👋
-### Bye
+### Bye 👋
 
 <!--
 **m7mdkamal/m7mdkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
